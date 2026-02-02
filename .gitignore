@@ -1,0 +1,46 @@
+# GPS data files
+GPS/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+*.egg-info/
+dist/
+build/
+
+# Android/Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+*.apk
+*.aab
+*.ap_
+*.dex
+bin/
+gen/
+out/
+release/
+gps-alpha-lab/build/
+gps-alpha-lab/app/build/
+gps-alpha-lab/.idea/
+gps-alpha-lab/captures/
+gps-alpha-lab/.externalNativeBuild/
+gps-alpha-lab/.cxx/
+
+# macOS
+.DS_Store
+
+# IDE
+*.swp
+*.swo
+*~
